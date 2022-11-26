@@ -1,0 +1,11 @@
+{
+  "name": "mi-api",
+  "version": "1.0.0",
+  "description": "Esta es mi primera aplicación de backend con Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vryahn",
+  "license": "MIT"
+}
